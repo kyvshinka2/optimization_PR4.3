@@ -1,0 +1,104 @@
+.plan {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.plan-block {
+    width: fit-content;
+    background-color: rgb(36, 36, 36);
+    padding: 15px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.content-2 {
+    width: 20vw;
+}
+
+.img {
+    text-align: center;
+}
+
+.btn {
+    text-align: center;
+}
+
+.content-2 p {
+    color: white;
+}
+
+.content-2 h1 {
+    color: rgb(255, 106, 0);
+}
+
+.btn input {
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(255, 106, 0);
+    border: none;
+    color: black;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.btn input:hover {
+    color: white;
+    background-color: rgb(153, 64, 0);
+    transition: 0.3s;
+}
+
+.plan-h1 {
+    margin-left: 50px;
+}
+
+.form-plan {
+    background-color: var(--black-color);
+    padding-bottom: 15px;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.form-plan h1 {
+    color: var(--orange-color);
+}
+
+.form-plan p {
+    color: white;
+}
+
+.dop {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.text-dop {
+    width: 15vw;
+}
+
+.dop-block {
+    border: 1px solid black;
+    margin-right: 50px;
+    padding: 15px;
+}
+
+.h1-pkan-dop {
+    margin-left: 50px;
+}
+
+.btn {
+    text-align: center;
+}
+
+img {
+    width: 20vw;
+}
+
+.block-o {
+    display: flex;
+    flex-wrap: wrap;
+}

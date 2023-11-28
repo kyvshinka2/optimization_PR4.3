@@ -1,0 +1,12 @@
+.inp-text {
+    width: 20vw;
+}
+
+.product-item img {
+    width: 20vw;
+}
+
+.products-list {
+    display: flex;
+    flex-wrap: wrap;
+}
